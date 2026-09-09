@@ -320,8 +320,6 @@ End-to-End AI & Data Solutions
 
 I'm always interested in connecting with people working in Data Analytics, Data Science, AI, Machine Learning, and Technology.
 
-<p align="left"> <a href="https://github.com/Pranita2905"> <img src="https://img.shields.io/badge/GitHub-Pranita2905-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/pranita-mothe-b90969317"> <img src="https://img.shields.io/badge/LinkedIn-Pranita%20Mothe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-
 ---
 
 💡 "Turning data into insights, and ideas into intelligent solutions."
