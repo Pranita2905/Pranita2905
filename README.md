@@ -299,7 +299,7 @@ I am interested in opportunities involving:
 
 # 📈 My Development Journey
 
-```text
+```
 Data Analytics
       ↓
 Python + SQL
@@ -313,7 +313,7 @@ Deep Learning + NLP
 Computer Vision
       ↓
 End-to-End AI & Data Solutions
-
+```
 ---
 
 🤝 Let's Connect
