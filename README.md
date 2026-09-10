@@ -1,328 +1,266 @@
 # 👋 Hi, I'm Pranita Mothe
 
-### 💻 Data Analyst | Data Scientist | Machine Learning Enthusiast
+### Data Analyst | Power BI | SQL | Python | Data Science
 
-I’m a **B.Tech Computer Science Engineering (Data Science) graduate, graduating in 2026**, passionate about transforming data into meaningful insights and building practical machine learning solutions.
+I'm a **B.Tech Computer Science Engineering (Data Science) graduate (2026)** who enjoys working with data, finding useful patterns, and turning those findings into simple and practical solutions.
 
-I work across **Data Analytics, Business Intelligence, Machine Learning, NLP, and Computer Vision**, with hands-on experience using Python, SQL, Power BI, Tableau, and modern ML frameworks.
+My main interests are **Data Analytics, Business Intelligence, Power BI, SQL, Python, and Machine Learning**. I enjoy working with real-world datasets, cleaning and exploring data, building dashboards, and developing machine learning models.
+
+I'm also exploring **Computer Vision and AI** by building practical projects and learning new technologies along the way.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in **Computer Science Engineering (Data Science)** — Shreeyash College of Engineering and Technology
-- 📊 Interested in **Data Analytics, Data Science, and Business Intelligence**
-- 🤖 Building practical **Machine Learning and AI projects**
-- 👁️ Currently working on **Computer Vision – Person Detection & Identification**
-- 🐍 Strong interest in **Python, SQL, Machine Learning, and Data Visualization**
-- 📈 Experienced in developing **Power BI dashboards and data-driven insights**
-- 🧠 Exploring **NLP, Deep Learning, and Computer Vision**
-- 🚀 Open to opportunities in **Data Analytics, Data Science, Data Engineering, and Machine Learning**
+* B.Tech in **Computer Science Engineering (Data Science)**
+* Interested in **Data Analytics and Business Intelligence**
+* Enjoy creating **Power BI dashboards and data visualizations**
+* Work with **Python, Pandas, NumPy, and Scikit-learn**
+* Use **SQL and MySQL** for data analysis
+* Build and experiment with **Machine Learning projects**
+* Interested in **EDA, predictive analytics, and business insights**
+* Currently building a **Person Detection & Identification** computer vision project
+* Looking for opportunities in **Data Analytics, Power BI, BI, and Data Science**
 
 ---
 
-## 🚀 Currently Working On
+# 🛠️ Skills
 
-### 👁️ Computer Vision – Person Detection & Identification
+### 📊 Data Analytics & BI
 
-Building an end-to-end computer vision system capable of:
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
 
-- 🎯 Person detection using **YOLO11**
-- 🔄 Real-time person tracking
-- 🧬 Person Re-Identification using **OSNet / Torchreid**
-- 📹 Real-time webcam processing
-- 🕐 Entry and exit time recording
-- 🗄️ MySQL database integration
-- 🔍 Matching person embeddings using similarity techniques
+**Power BI • Power Query • DAX • Data Modeling • Excel • Data Visualization • EDA • Statistical Analysis**
 
-**Tech Stack:**  
-`Python` `YOLO11` `OpenCV` `PyTorch` `Torchreid` `OSNet` `MySQL`
+### 🐍 Programming & Data
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-# 🛠️ Tech Stack
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-### 👨‍💻 Programming & Data
+**Python • SQL • Pandas • NumPy • Data Cleaning • Data Preprocessing • Feature Engineering**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🤖 Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge\&logo=xgboost\&logoColor=white)
 
-### 📊 Data Visualization & BI
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-### 🤖 Machine Learning & AI
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+**Classification • Predictive Analytics • Feature Engineering • Model Evaluation**
 
 ### 👁️ Computer Vision
 
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 
-**Object Detection • Object Tracking • Person Re-Identification • Image Processing**
+**YOLO11 • OpenCV • PyTorch • Torchreid • OSNet • Object Detection • Tracking • Person Re-Identification**
 
-### 🧠 NLP
+### 🗄️ Databases & Tools
 
-**Tokenization • Stemming • Lemmatization • TF-IDF • Word2Vec • GloVe • FastText**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
-### 🗄️ Databases & Development
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**MySQL • Flask • Streamlit • Git • GitHub • VS Code • Jupyter Notebook**
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-## 1. 👁️ Computer Vision – Person Detection & Identification
+## 📊 Employee Productivity & Workforce Analytics Dashboard
 
-An end-to-end computer vision project focused on detecting, tracking, and identifying people in real time.
+A Power BI project focused on understanding employee performance, productivity, compensation, satisfaction, and workforce trends.
 
-**Key Features**
-- Person detection
-- Real-time tracking
-- Person re-identification
-- Webcam processing
-- Entry/exit time recording
-- MySQL database integration
+### What I worked on
 
-**Technologies:**  
-`Python` `YOLO11` `OpenCV` `PyTorch` `Torchreid` `OSNet` `MySQL`
+* Cleaned and transformed data using **Power Query**
+* Created KPIs and calculated measures using **DAX**
+* Built a structured **data model**
+* Analyzed employee and department performance
+* Created interactive HR and workforce dashboards
+* Presented insights through charts, KPIs, and Power BI visualizations
 
-🔗 **Repository:** [ADD LINK HERE]
+**Tools:** `Power BI` `Power Query` `DAX` `Data Modeling` `Excel`
 
----
-
-## 2. 🛡️ Financial Fraud Intelligence Engine
-
-A machine learning-based fraud detection system designed to identify potentially fraudulent financial transactions.
-
-**Key Features**
-- Financial transaction analysis
-- Fraud classification
-- Class imbalance handling
-- XGBoost model training
-- Model evaluation
-
-**Technologies:**  
-`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost`
-
-🔗 **Repository:** [ADD LINK HERE]
+🔗 [View Repository](https://github.com/Pranita2905/Employee-Productivity-Analytics-Dashboard)
 
 ---
 
-## 3. 📉 Customer Churn Prediction System
+## 🛡️ Financial Fraud Intelligence Engine
 
-A machine learning application that predicts whether a customer is likely to churn.
+A machine learning project that analyzes financial transactions and identifies potentially fraudulent activity.
 
-**Key Features**
-- Customer churn prediction
-- Data preprocessing
-- Machine learning pipeline
-- Gaussian Naive Bayes classification
-- Flask API
-- Web deployment
+### What I worked on
 
-**Technologies:**  
-`Python` `Scikit-learn` `Flask`
+* Analyzed **50,000+ financial transactions**
+* Cleaned and explored the dataset
+* Performed feature engineering
+* Handled class imbalance
+* Built an **XGBoost classification model**
+* Evaluated the model using precision, recall, F1-score, and ROC-AUC
+* Created a Streamlit application to make the analysis easier to use
 
-🔗 **GitHub:** [Customer Churn Predictions](https://github.com/Pranita2905/Customer_Churn_Predictions)
+**Tools:** `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Streamlit`
 
-🌐 **Live Demo:** [Customer Churn Prediction App](https://customer-churn-predictions-1-7z2w.onrender.com)
+🔗 [View Repository](https://github.com/Pranita2905/Financial-Fraud-Intelligence-Engine)
 
----
-
-## 4. 📊 Real-Time Employee Productivity Dashboard
-
-An interactive Power BI dashboard designed to analyze employee performance, productivity, workforce trends, compensation, and HR insights.
-
-**Key Features**
-- Employee performance analysis
-- Productivity analysis
-- Workforce analytics
-- Compensation analysis
-- HR insights
-- Interactive KPIs and visualizations
-
-**Technologies:**  
-`Power BI` `Power Query` `DAX` `Excel`
-
-🔗 **Repository:** [ADD LINK HERE]
+🌐 [Live Demo](https://financial-fraud-intelligence-engine-jgizzufbomgeci32x2l4hv.streamlit.app/)
 
 ---
 
-## 5. 🌍 Air Quality Index Analysis & Forecasting
+## 📉 Customer Churn Prediction System
 
-A time-series analysis and forecasting project focused on understanding AQI trends across Indian cities.
+A machine learning application that predicts whether a customer is likely to leave a service.
 
-**Key Features**
-- AQI data analysis
-- Indian city comparison
-- Time-series analysis
-- AQI forecasting
-- Data visualization
+### What I worked on
 
-**Technologies:**  
-`Python` `Pandas` `Matplotlib` `ARIMA` `SARIMA`
+* Analyzed **7,000+ customer records**
+* Performed data cleaning and EDA
+* Prepared the data for machine learning
+* Built a **Gaussian Naive Bayes** classification model
+* Evaluated model performance
+* Created a Flask-based web application
+* Deployed the application using Render
 
-🔗 **Repository:** [ADD LINK HERE]
+**Tools:** `Python` `Scikit-learn` `Gaussian Naive Bayes` `Flask` `HTML/CSS`
 
----
+🔗 [View Repository](https://github.com/Pranita2905/Customer_Churn_Predictions)
 
-## 6. 📈 Stock Market Prediction
-
-A deep learning project using LSTM for historical stock market analysis and time-series prediction.
-
-**Key Features**
-- Historical stock data analysis
-- Time-series preprocessing
-- LSTM model
-- Stock price prediction
-
-**Technologies:**  
-`Python` `LSTM` `TensorFlow`
-
-🔗 **Repository:** [ADD LINK HERE]
+🌐 [Live Demo](https://customer-churn-predictions-1-7z2w.onrender.com/)
 
 ---
 
-## 7. 🎯 Career Path Guidance System
+## 👁️ Computer Vision – Person Detection & Identification
 
-A full-stack application designed to provide career guidance and recommendations based on user inputs.
+I'm currently building an end-to-end computer vision project for detecting, tracking, and identifying people.
 
-**Key Features**
-- Career recommendations
-- User input processing
-- REST API
-- Database integration
+### Current work includes
 
-**Technologies:**  
-`Next.js` `FastAPI` `MySQL`
+* Person detection using **YOLO11**
+* Real-time tracking
+* Person Re-Identification using **OSNet / Torchreid**
+* Webcam processing
+* Person embedding generation
+* Similarity-based identity matching
+* Entry and exit time recording
+* MySQL integration
 
-🔗 **Repository:** [ADD LINK HERE]
+**Tools:** `Python` `YOLO11` `OpenCV` `PyTorch` `Torchreid` `OSNet` `MySQL`
+
+🚧 **Currently in development**
 
 ---
 
 # 💼 Experience
 
-### 📊 Data Analyst Intern — Elevate Labs
+## 📊 Data Analyst Intern — Elevate Labs
+
 **January 2026 – April 2026**
 
-Worked on data analytics and machine learning projects involving:
+During my internship, I worked on different analytics and machine learning projects and got practical experience with the complete data analysis process.
 
-- HR Analytics & Employee Attrition Prediction
-- Customer Lifetime Value Prediction
-- Movie Success Prediction
-- Customer Churn Analysis
-- Data preprocessing and exploratory data analysis
-- Machine learning model development
-- Business-focused insights
+### Some of my work included:
 
----
+* Customer Churn Prediction
+* Employee Attrition Prediction
+* Customer Lifetime Value Analysis
+* Movie Success Prediction
+* Data cleaning and EDA
+* SQL-based data analysis
+* Machine learning model development
+* Power BI dashboard development
+* Business insights and recommendations
 
-### 🤖 Data Science Virtual Intern — ShadowFox
-**October 2024**
+I worked with tools such as:
 
-Worked on practical data science tasks involving data analysis, machine learning, and problem-solving.
+`Python` `SQL` `Power BI` `Power Query` `DAX` `Excel` `Pandas` `NumPy` `Scikit-learn` `XGBoost`
 
 ---
 
 # 🏆 Certifications & Achievements
 
-### 📜 Certifications
+### Certifications
 
-- **Microsoft Certified — Career Essentials in Data Analysis**
-- **CloudThat Certified — Python Programming**
-- **Data Science Virtual Internship — ShadowFox**
+* **Data Analyst Internship Certificate** — Elevate Labs
+  *Jan 2026 – Apr 2026*
 
-### 🥇 Achievement
+* **Career Essentials in Data Analysis** — Microsoft
 
-- Organized **"Test Your Skills"**, a coding competition for **100+ CSE students**.
+* **Python Programming** — CloudThat
 
----
+* **Virtual Internship in Data Science** — ShadowFox
 
-# 📚 What I'm Learning
+### Achievement
 
-Currently strengthening my knowledge in:
-
-- 🤖 Advanced Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 🔤 Natural Language Processing
-- 📊 Advanced Power BI & DAX
-- 🗄️ SQL & Data Engineering
-- 🚀 Machine Learning Deployment
-- 🔄 End-to-End ML Pipelines
+🏅 Organized **"Test Your Skills"**, a coding competition for **100+ CSE students**.
 
 ---
 
-# 🎯 Career Interests
+# 📚 Currently Learning
 
-I am interested in opportunities involving:
+I'm currently improving my skills in:
 
-`Data Analytics` • `Data Science` • `Machine Learning` • `Business Intelligence` • `Data Engineering` • `Artificial Intelligence` • `Computer Vision` • `NLP`
+* Advanced Power BI & DAX
+* SQL for Data Analytics
+* Machine Learning
+* Computer Vision
+* Deep Learning
+* Machine Learning Deployment
+* End-to-End Data & AI Projects
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm currently interested in entry-level opportunities in:
+
+**Data Analytics • Power BI • Business Intelligence • Data Science • Machine Learning**
+
+I'm always interested in learning from others, working on interesting projects, and connecting with people in the data and technology space.
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranita2905&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranita2905&layout=compact&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranita2905&show_icons=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranita2905&layout=compact&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranita2905&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Pranita2905&hide_border=true" />
 </p>
 
 ---
 
-# 📈 My Development Journey
+# 🤝 Let's Connect
 
-```
-Data Analytics
-      ↓
-Python + SQL
-      ↓
-Power BI + Tableau
-      ↓
-Machine Learning
-      ↓
-Deep Learning + NLP
-      ↓
-Computer Vision
-      ↓
-End-to-End AI & Data Solutions
-```
----
+<p align="left">
 
-🤝 Let's Connect
+<a href="https://github.com/Pranita2905">
+<img src="https://img.shields.io/badge/GitHub-Pranita2905-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-I'm always interested in connecting with people working in Data Analytics, Data Science, AI, Machine Learning, and Technology.
-<p align="left"> <a href="https://github.com/Pranita2905"> <img src="https://img.shields.io/badge/GitHub-Pranita2905-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/pranita-mothe-b90969317"> <img src="https://img.shields.io/badge/LinkedIn-Pranita%20Mothe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+<a href="https://www.linkedin.com/in/pranita-mothe/">
+<img src="https://img.shields.io/badge/LinkedIn-Pranita%20Mothe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mothepranita@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-💡 "Turning data into insights, and ideas into intelligent solutions."
+### 💡 I enjoy turning data into insights and ideas into practical solutions.
 
-⭐ Feel free to explore my repositories and projects.
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories.**
